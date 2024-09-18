@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 //Your code here
 
-public class Program7{
+public class Program{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         
@@ -46,6 +46,7 @@ public class Program7{
         
         System.out.println("Decimal schrute-bucks = $" + schruteBucks);
     }
+}
 //Paste console output below:
 /*
 
