@@ -49,7 +49,13 @@ public class Program{
 }
 //Paste console output below:
 /*
-
+Enter schrute-bucks: 
+7
+Enter klevins: 
+17
+Enter stanley-nickels: 
+9
+Decimal schrute-bucks = $7.89
 
 */
 
