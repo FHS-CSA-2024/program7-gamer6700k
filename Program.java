@@ -34,7 +34,7 @@ public class Program{
         
         schruteBucks = schruteBucks + klevins + stanleyNickels;
         
-        //Rounding
+        
         
         schruteBucks = schruteBucks * 100;
         
